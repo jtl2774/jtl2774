@@ -1,5 +1,9 @@
 <!--### Hi there 👋-->
 <div align="center"> <img src="welcome.png"> </div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt = "jtl's GitHub Stats" src = "https://github-stats-git-main-jtl2774s-projects.vercel.app/api?username=jtl2774"/>
+</details>
 <!--
 **jtl2774/jtl2774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtl2774)](https://github.com/jtl2774/github-readme-stats)
+
+
