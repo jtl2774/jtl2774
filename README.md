@@ -2,7 +2,7 @@
 <div align="center"> <img src="welcome.png"> </div>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt = "jtl's GitHub Stats" src = "https://github-readme-stats-jtl2774s-projects.vercel.app/api?username=jtl2774"/>
+  <img align="left" alt = "jtl's GitHub Stats" src = "https://github-readme-stats-jtl2774s-projects.vercel.app/api?username=jtl2774&show_icons=true&theme=tokyonight"/>
 </details>
 <!--
 **jtl2774/jtl2774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
