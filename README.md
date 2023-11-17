@@ -1,4 +1,4 @@
-<!--### Hi there 👋-->
+Hi there! 👋
 <div align="center"> <img src="welcome.png"> </div>
 <details>
   <summary>:zap: GitHub Stats</summary>
