@@ -1,5 +1,5 @@
 Hi there! 👋
-<div align="center"> <img src="welcome.png"> </div>
+<div align="left"> <img src="Untitled.gif"> </div>
 <!-- <details> -->
 <!--   <summary> -->
     :zap: GitHub Stats
