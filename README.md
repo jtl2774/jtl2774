@@ -1,4 +1,4 @@
-Hi there! 👋
+<!-- Hi there! 👋 -->
 <div align="left"> <img src="Untitled.gif"> </div>
 <!-- <details> -->
 <!--   <summary> -->
