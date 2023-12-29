@@ -4,7 +4,7 @@ Hi there! 👋 With a background rooted in learning about how the intersection o
 
 <!-- <details> -->
 ## ⚡ GitHub Stats
-  <img align="left" alt = "jtl's GitHub Stats" src = "https://github-readme-stats-jtl2774s-projects.vercel.app/api?username=junlantracyli&show_icons=true&theme=tokyonight"/>
+  <img align = "left" alt = "jtl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=junlantracyli&show_icons=true&theme=tokyonight"/>  
   <img align="center" alt = "jtl's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=junlantracyli&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact"/>
 <!-- </details> -->
 <!--
